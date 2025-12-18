@@ -25,7 +25,7 @@ I write blogs on real-world case studies and job-ready data insights, covering d
 
 ### 🛠 Tools & Skills
 SQL | MySQL | Excel | Tableau | Power BI  
-Product/Growth Analytics | Business Analytics | Funnel Analysis | KPI Tracking | Business Insights
+Product & Growth Analytics | Business Analytics | KPI Tracking | Funnel, Conversion & Business Insights
 
 ---
 

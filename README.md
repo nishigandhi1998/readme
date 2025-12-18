@@ -1,7 +1,3 @@
-- 🌱 I’m currently learning data analysis using Python ,Sql and Excel
-- 💞️ I’m looking to collaborate on https://github.com/nishigandhi1998
-- 📫 How to reach me https://www.linkedin.com/in/nishigandhianalyst/
-
 👋 Hi, I’m Nishi  
 👀 Data Analyst focused on product, growth, and business analytics.
 
@@ -30,7 +26,7 @@
 ### ✍️ Technical Writing
 I write blogs on data analytics, product & marketing analytics, and AI concepts to explain ideas clearly and practically.
 
-- Medium: https://medium.com/@nishigandhi1998
+- Medium: [https://medium.com/@nishigandhi1998](https://medium.com/@nishigandhi1998)
 
 ### 🛠 Tools & Skills
 SQL | MySQL | Excel | Tableau | Power BI  

@@ -24,7 +24,7 @@ I write blogs on real-world case studies and job-ready data insights, covering d
 - Medium: [Click Here](https://medium.com/@nishigandhi1998)
 
 ### 🛠 Tools & Skills
-SQL | MySQL | Excel | Tableau | Power BI  
+SQL | Excel | Tableau | Power BI  
 Product & Growth Analytics | Business Analytics | KPI Tracking | Funnel, Conversion & Business Insights
 
 ---

@@ -19,13 +19,13 @@
 ---
 
 ### ✍️ Technical Writing
-I write blogs on data analytics, product & marketing analytics, and AI concepts to explain ideas clearly and practically.
+I write blogs on real-world case studies and job-ready data insights, covering data analytics, product & marketing analytics, and AI concepts. My focus is on explaining complex ideas clearly and practically, making them easy to understand and apply.
 
 - Medium: [Click Here](https://medium.com/@nishigandhi1998)
 
 ### 🛠 Tools & Skills
 SQL | MySQL | Excel | Tableau | Power BI  
-Product Analytics | Funnel Analysis | KPI Tracking | Business Insights
+Product/Growth Analytics | Business Analytics | Funnel Analysis | KPI Tracking | Business Insights
 
 ---
 

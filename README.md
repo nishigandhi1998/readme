@@ -12,9 +12,9 @@
 ---
 
 ### 📌 Featured Projects
-- 🔹 Sign-Up Flow Optimization (SQL + Tableau) [Click Here](https://github.com/nishigandhi1998/Sign-Up-Flow-Optimization-Analysis-with-SQL-and-Tableau)
-- 🔹 Customer Engagement Analysis (Excel + Statistics) [Click Here](https://github.com/nishigandhi1998/Customer-Engagement-Analysis-in-Excel)
-- 🔹 Profit & Loss Analysis (Excel)  [Click Here](https://github.com/nishigandhi1998/Analysis_and_Visualization_of_P-AND-L_Data-_Excel)
+- 🔹 Sign-Up Flow Optimization  [(SQL + Tableau)](https://github.com/nishigandhi1998/Sign-Up-Flow-Optimization-Analysis-with-SQL-and-Tableau)
+- 🔹 Customer Engagement Analysis  [(Excel + Statistics)](https://github.com/nishigandhi1998/Customer-Engagement-Analysis-in-Excel)
+- 🔹 Profit & Loss Analysis   [(Excel)](https://github.com/nishigandhi1998/Analysis_and_Visualization_of_P-AND-L_Data-_Excel)
 
 ---
 
